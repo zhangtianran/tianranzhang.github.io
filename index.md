@@ -9,7 +9,7 @@
       <p><b>Address: Room 401, Hui Oi Chow Science Building, The University of Hong Kong, Pok Fu Lam Road, Hong Kong</b></p>
     </td>
     <td width="25%">
-      <img src="/tianranzhang.jpg" width="100%">
+      <img src="tianranzhang.jpg" width="100%">
     </td>
   </tr>
 </table>
