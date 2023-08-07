@@ -18,8 +18,7 @@
 ---
 
 Personal introduction
-
----
+My research covers on the synthesis of colloids and the colloidal assemblies, ranging from patchy colloids to active colloids. I employed techniques, including dispersed polymerisation, wetting-dewetting strategy, to create colloids with anisotropic patches or stimuli-responsiveness. I also investigated the self- and directed assembly of colloids into complex structure and patterns with tuneable interaction.---
 
 ### Latest News
 1. 
@@ -29,19 +28,19 @@ Personal introduction
 - Colloidal assembly
 
 ### Honors
-- 
-- 
-- 
+- **Postgraduate Student Award**
+- **Lee Shau Kee Postgraduate Fellowship**
+- **Silver Award in BIOMOD Biomolecular Design Competition**
 
 ### Research Projects
-#### 公司/学校/研究所（2013.9~2017.6）
-- **项目1**  
-项目描述
-- **项目2**  
-项目描述
+#### The University of Hong Kong（2019.9~present）
+- **Chiral assembly of colloidal particles**  
+xx
+- **Dynamic assembly of active colloids**  
+xx
 
-#### 公司/学校/研究所（2017.9~至今）
-- **项目1**  
-项目描述
-- **项目2**  
-项目描述
+#### Jilin University（2015.9~2019.7）
+- **BIOMOD Biomolecular Design Competition**  
+xx
+- **Final year project**  
+xx

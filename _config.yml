@@ -1,1 +1,13 @@
-theme: jekyll-theme-cayman
+title: Tianran Zhang
+
+author:
+    name: Tianran Zhang
+    email: zhangtr@connect.hku.hku
+
+theme: minima
+
+plugin:
+    - jekyll-feed
+    - jekyll-seo-tag
+    
+minima:
