@@ -17,7 +17,7 @@
 
 ---
 
-###Personal introduction
+### Personal introduction
 My research covers on the synthesis of colloids and the colloidal assemblies, ranging from patchy colloids to active colloids. I employed techniques, including dispersed polymerisation, wetting-dewetting strategy, to create colloids with anisotropic patches or stimuli-responsiveness. I also investigated the self- and directed assembly of colloids into complex structure and patterns with tuneable interaction.
 ---
 
