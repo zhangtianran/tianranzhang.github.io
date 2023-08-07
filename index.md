@@ -17,13 +17,15 @@
 
 ---
 
+### Other websites
+[LinkedIn](https://hk.linkedin.com/in/tianran-zhang-b6348b169/en), [Google Scholar](https://scholar.google.com/citations?user=yVpiCaMAAAAJ), [GitHub](https://github.com/zhangtianran)
+
 ### Personal introduction
 My research covers on the synthesis of colloids and the colloidal assemblies, ranging from patchy colloids to active colloids. I employed techniques, including dispersed polymerisation, wetting-dewetting strategy, to create colloids with anisotropic patches or stimuli-responsiveness. I also investigated the self- and directed assembly of colloids into complex structure and patterns with tuneable interaction.
----
 
 ### Research Direction
-- Synthesis of novel colloids
-- Colloidal assembly
+- **Synthesis of novel colloids**
+- **Colloidal assembly**
 
 ### Honors
 - **Postgraduate Student Award**
